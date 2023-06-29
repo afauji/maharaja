@@ -60,7 +60,7 @@
 .header h1 {
     color :white;
     --animate-delay: 1.7s;
-    line-height: 1;
+    line-height: 1.5;
     /* font-size: 4vw; */
 }
 
@@ -74,8 +74,7 @@
 /* Package */
 
 .package-wedding {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 80px 0 40px 0;
   }
   
   .package-wedding-box .box:nth-child(1) {
@@ -195,16 +194,14 @@
   /* Testimonial */
 
   .testimonial {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0 40px 0;
   }
 
   /* Testimonial */
 
   /* Vendor */
   .vendor {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0 40px 0;
   }
 
   .row .nama-vendor{
@@ -267,8 +264,7 @@
 
   /* Office */
   .office {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0 40px 0;
   }
 
   .office iframe {
@@ -286,8 +282,7 @@
 
   /* About Us */
   .about{
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0 40px 0;
   }
 
   .about img {
@@ -311,8 +306,7 @@
 
 /* Contact Us */
 .contact{
-  padding-top: 80px;
-  padding-bottom: 40px;
+  padding: 80px 0 40px 0;
   border-radius: 40px;
   display: flex;
 }
@@ -324,8 +318,7 @@
 
 /* Footer */
 .footer {
-  padding-top: 40px;
-  margin-top: 40px;
+  padding: 40px 0 40px 0;
   background:#000;
   color: #fff;
   border-top-left-radius: 150px;
@@ -367,7 +360,7 @@
 
   ::-webkit-scrollbar-thumb {
     background-color: #d09112;
-    border-radius: 10px;
+    border-radius: 8px;
 }
   /* ?Custom Scroll */
 
