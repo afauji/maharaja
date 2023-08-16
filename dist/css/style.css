@@ -268,7 +268,7 @@
   height: 300px;
 }
 
-.office .img {
+/* .office .img {
   padding-top: 40px;
   background-image: url("../../assets/img/office/office-mwp.jpg");
   background-size: cover;
@@ -279,7 +279,7 @@
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   -o-border-radius: 30px;
-}
+} */
 
 @media screen and (max-width: 475px) {
   .office iframe {
